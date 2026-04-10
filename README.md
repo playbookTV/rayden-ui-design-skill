@@ -190,7 +190,7 @@ claude plugin add rayden-ui-design-skill
 ### skills.sh
 
 ```bash
-claude skill add leslieisah/rayden-ui-design-skill
+claude skill add playbookTV/rayden-ui-design-skill
 ```
 
 ### Manual install
@@ -198,7 +198,7 @@ claude skill add leslieisah/rayden-ui-design-skill
 Clone the repo and point Claude Code at it:
 
 ```bash
-git clone https://github.com/leslieisah/rayden-ui-design-skill.git
+git clone https://github.com/playbookTV/rayden-ui-design-skill.git
 claude --plugin-dir ./rayden-ui-design-skill
 ```
 

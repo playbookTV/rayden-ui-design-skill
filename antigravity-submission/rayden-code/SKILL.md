@@ -3,7 +3,7 @@ name: rayden-code
 description: Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns
 category: development
 risk: low
-source: https://github.com/leslieisah/rayden-ui-design-skill
+source: https://github.com/playbookTV/rayden-ui-design-skill
 source_type: github
 date_added: 2026-04-10
 author: Leslie Williams
